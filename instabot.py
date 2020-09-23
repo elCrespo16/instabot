@@ -92,6 +92,7 @@ def main():
         else:
             print("Comando erroneom, introduce otro\n")
         command = input("¿Qué quieres hacer ahora?")
+        wtf gente
 
 # file_name = "cuentas.txt"
 #
